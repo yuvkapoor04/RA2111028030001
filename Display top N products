@@ -1,0 +1,7 @@
+In this the application has been created 
+Also the authorization has been done 
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzEyMTUxMDU4LCJpYXQiOjE3MTIxNTA3NTgsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjkwYzBhYTY3LTQ1MmQtNDM0ZS1hM2JmLWQ5ZWYyYTNlZTVmYyIsInN1YiI6InlhODgwN0Bzcm1pc3QuZWR1LmluIn0sImNvbXBhbnlOYW1lIjoiU1JNSVNUIiwiY2xpZW50SUQiOiI5MGMwYWE2Ny00NTJkLTQzNGUtYTNiZi1kOWVmMmEzZWU1ZmMiLCJjbGllbnRTZWNyZXQiOiJ3aGtCZXVsbXRremlCaXhLIiwib3duZXJOYW1lIjoiWXV2IEthcG9vciIsIm93bmVyRW1haWwiOiJ5YTg4MDdAc3JtaXN0LmVkdS5pbiIsInJvbGxObyI6IlJBMjExMTAyODAzMDAwMSJ9.uchpcV0iRnvjDhDtq9M9_naaGopf12j5h6-igHvhOME",
+    "expires_in": 1712151058
+}
