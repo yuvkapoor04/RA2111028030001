@@ -1,0 +1,9 @@
+The registration has been successfully done using POSTMAN and the desired response has been generated.
+{
+    "companyName": "SRMIST",
+    "clientID": "90c0aa67-452d-434e-a3bf-d9ef2a3ee5fc",
+    "clientSecret": "whkBeulmtkziBixK",
+    "ownerName": "Yuv Kapoor",
+    "ownerEmail": "ya8807@srmist.edu.in",
+    "rollNo": "RA2111028030001"
+}
